@@ -1,4 +1,4 @@
-# ES6 Node.js API Boilerlate
+# ES6 Node.js API Boilerplate
 
 This boilerplate can be used as a starting point for any Node based APIs
 
